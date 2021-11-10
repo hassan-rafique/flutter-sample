@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Kitty",
+    "image": "https://www.freeiconspng.com/thumbs/cat-png/baby-cat-png-12.png",
+    "genre": "Wirehair",
+    "sex": 2,
+    "age": 0.5,
+    "weight": 4.5,
+    "story": "story 1",
+    "favorite": false,
+    "id": 1
+  },
+  {
+    "name": "Romain",
+    "image": "https://i.pinimg.com/originals/7a/9d/0d/7a9d0d3e2678927b6d1994d9b078030b.png",
+    "genre": "Munchkin",
+    "sex": 1,
+    "age": 2,
+    "weight": 6,
+    "story": "story 2",
+    "favorite": true,
+    "id": 2
+  },
+  {
+    "name": "Jerry",
+    "image": "https://www.pngplay.com/wp-content/uploads/2/White-Cat-Transparent-Background.png",
+    "genre": "Wirehair",
+    "sex": 2,
+    "age": 1,
+    "weight": 5.7,
+    "story": "story 3",
+    "favorite": false,
+    "id": 3
+  },
+  {
+    "name": "Dexter",
+    "image": "https://i.pinimg.com/originals/59/67/73/596773320a529c0fc960c901d78b13e7.jpg",
+    "genre": "Russian",
+    "sex": 2,
+    "age": 1.5,
+    "weight": 8.5,
+    "story": "story 4",
+    "favorite": false,
+    "id": 4
+  },
+  {
+    "name": "Oscar",
+    "image": "https://st.depositphotos.com/1246870/2531/i/600/depositphotos_25317701-stock-photo-red-cat-sitting-towards-camera.jpg",
+    "genre": "American",
+    "sex": 2,
+    "age": 3.5,
+    "weight": 7.4,
+    "story": "story 5",
+    "favorite": false,
+    "id": 5
+  },
+  {
+    "name": "Oliver",
+    "image": "https://thumbs.dreamstime.com/b/sitting-grey-cat-isolated-white-background-41745213.jpg",
+    "genre": "Indian",
+    "sex": 1,
+    "age": 3,
+    "weight": 8.5,
+    "story": "story 6",
+    "favorite": false,
+    "id": 6
+  }
+]

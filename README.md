@@ -4,7 +4,7 @@ A sample Flutter project. This repository contains a sample Flutter App that sho
 # Screenshots
 Home                       |  Favorite                 |  Detail
 :-------------------------:|:-------------------------:|:-------------------------
-![Screenshot_1632404851](/uploads/5246ebbe894d5d6a110cb3b7d3e35f8a/Screenshot_1632404851.png) | ![Screenshot_1632727945](/uploads/df17493bfdb52083032d2276f213f9a2/Screenshot_1632727945.png) | ![Screenshot_1632727957](/uploads/cae95d5716497eaee8977e246a01b38d/Screenshot_1632727957.png)
+![Alt text](/screenshots/Screenshot_1632404851.png?raw=true "Home screen") | ![Alt text](/screenshots/Screenshot_1632727945.png?raw=true "Favorite Screen") | ![Alt text](/screenshots/Screenshot_1632727957.png?raw=true "Detail screen")
 
 
 
